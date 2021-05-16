@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import Head from "next/head";
-
+import styles from "../styles/Home.module.scss";
 export default function Home() {
   return (
     <div className="container">
       <div>
-        <span>타입스크립트</span>
+        <span>Next.js+Typescript+Sass+gh-pages</span>
       </div>
     </div>
   );
