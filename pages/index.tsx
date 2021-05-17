@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="container">
       <div>
-        <span>Next.js+Typescript+Sass+gh-pages</span>
+        <span>Next.js+Typescript+gh-pages</span>
       </div>
     </div>
   );
