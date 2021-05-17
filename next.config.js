@@ -5,5 +5,5 @@
 const debug = process.env.NODE_ENV !== "production";
 
 module.exports = {
-  assetPrefix: !debug ? "/blog/" : "",
+  assetPrefix: !debug ? "/next.js-typescript-gh-pages/" : "",
 };
