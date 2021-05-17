@@ -7,10 +7,3 @@ const debug = process.env.NODE_ENV !== "production";
 module.exports = {
   assetPrefix: !debug ? "/next.js-typescript-gh-pages/" : "",
 };
-const path = require("path");
-
-module.exports = {
-  sassOptions: {
-    includePaths: [path.join(__dirname, "styles")],
-  },
-};
