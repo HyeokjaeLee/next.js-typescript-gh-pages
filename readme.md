@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-### Deploy it to github
+### Deploy it to github:
 
 Edit `env-config.js` and replace `'next.js-typescript-gh-pages'` by your project name.<br>
 Edit `next.config.js` and replace `'next.js-typescript-gh-pages'` by your project name.<br>
