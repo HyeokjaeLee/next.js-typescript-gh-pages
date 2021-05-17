@@ -15,12 +15,12 @@ npm run dev
 
 ### Deploy it to github
 
-Edit `env-config.js` and replace `'next.js-typescript-gh-pages'` by your project name.
-Edit `next.config.js` and replace `'next.js-typescript-gh-pages'` by your project name.
+Edit `env-config.js` and replace `'next.js-typescript-gh-pages'` by your project name.<br>
+Edit `next.config.js` and replace `'next.js-typescript-gh-pages'` by your project name.<br>
 
-- 1. Create repository.
-- 2. Link it to your github account.
-- 3. Publish your master branch.
+1. Create repository.
+2. Link it to your github account.
+3. Publish your master branch.
 
 ### Test it:
 
