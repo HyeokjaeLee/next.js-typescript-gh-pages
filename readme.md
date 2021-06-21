@@ -2,7 +2,7 @@
 
 > This repository is a gh-pages example built with Next.js and Typescript<br>
 
-![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) ![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NEXT](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white) ![GITHUB](https://img.shields.io/badge/Github%20Pages-181717?style=flat-square&logo=Github&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) ![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![GITHUB](https://img.shields.io/badge/Github%20Pages-181717?style=flat-square&logo=Github&logoColor=white)
 
 https://hyeokjaelee.github.io/next.js-typescript-gh-pages/
 
